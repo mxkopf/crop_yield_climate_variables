@@ -3,7 +3,7 @@
 This GitHub repository contains the data of the project: The Impact of Temperature and Precipitation on Annual Crop
 Yield in North America
 
-Project by: Maxim Mahnkopf, Nick van Nulen, Dominic Schierbaum
+Project by: Maxim Mahnkopf, Nick van Nuland, Dominic Schierbaum
 
 
 
@@ -26,3 +26,8 @@ The data folder contains the used crop yield raw data from GDHY, that can be dow
 All other data files are part of the preprocessing in script 1 to 3
 
 The data was accessed last: 29.08.2023
+
+
+### portfolio
+
+The folder portfolio contains the described workflow by Nick van Nuland and Maxim Mahnkopf
